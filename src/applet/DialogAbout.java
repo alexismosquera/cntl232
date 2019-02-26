@@ -33,6 +33,8 @@
 
 // Esto son cambios hechos desde nueva característica
 
+//estos son cambios realizados desde producción
+
 package applet;
 
 import java.awt.Desktop;
