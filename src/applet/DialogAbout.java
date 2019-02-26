@@ -21,7 +21,8 @@
  */
 
  // This is  a new line
- 
+ // This is a new line for NuevaCaracteristica
+
 package applet;
 
 import java.awt.Desktop;
