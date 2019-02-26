@@ -31,6 +31,8 @@
 // afdasfdadf
 // afdasfdasdfasdfas
 
+// Esto son cambios hechos desde nueva característica
+
 package applet;
 
 import java.awt.Desktop;
