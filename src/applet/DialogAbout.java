@@ -37,14 +37,6 @@
 
 // Nuevo codigo añadido desde nueva caracteristica
 
-// He agregado nuevas lineas a este archivo
-// alñfkasñkjfsl
-// adfasfasaafasdfafglkhghkh
-// sadfggafga
-// adfasfasdf
-
-
-
 package applet;
 
 import java.awt.Desktop;
